@@ -1,0 +1,297 @@
+domain,ipv4,ipv6,cname,status,checked_at,Reachability Classification,Hosting Classification,Domains on IP
+acc.gov.zm,165.56.48.28,,,OK,2025-12-13T13:26:04+02:00,Public (IPv4),Direct / Shared Hosting,6
+ago.gov.zm,,,,NXDOMAIN,2025-12-13T13:26:06+02:00,No Public DNS / Internal / Legacy,Unknown,0
+agriculture.gov.zm,41.72.108.146,,,OK,2025-12-13T13:26:06+02:00,Public (IPv4),Direct / Shared Hosting,1
+boz.zm,4.222.18.41,,,OK,2025-12-13T13:26:07+02:00,Public (IPv4),Direct / Shared Hosting,2
+brra.org.zm,102.23.122.251,,,OK,2025-12-13T13:26:07+02:00,Public (IPv4),Direct / Shared Hosting,9
+businesslicenses.gov.zm,41.175.8.92,,,OK,2025-12-13T13:26:08+02:00,Public (IPv4),Direct / Shared Hosting,1
+caa.co.zm,,,,NXDOMAIN,2025-12-13T13:26:09+02:00,No Public DNS / Internal / Legacy,Unknown,0
+cabinet.gov.zm,41.215.183.58,,,OK,2025-12-13T13:26:09+02:00,Public (IPv4),Direct / Shared Hosting,7
+cbu.ac.zm,192.124.249.110,,,OK,2025-12-13T13:26:10+02:00,Public (IPv4),Direct / Shared Hosting,2
+ccpc.org.zm,102.23.122.251,,,OK,2025-12-13T13:26:11+02:00,Public (IPv4),Direct / Shared Hosting,9
+cdc.gov.zm,,,,NXDOMAIN,2025-12-13T13:26:12+02:00,No Public DNS / Internal / Legacy,Unknown,0
+ceec.org.zm,104.21.6.56,2606:4700:3030::ac43:9af6,,OK,2025-12-13T13:26:13+02:00,Public (IPv4),Direct / Shared Hosting,1
+cen.gov.zm,154.120.217.142,,,OK,2025-12-13T13:26:14+02:00,Public (IPv4),Direct / Shared Hosting,1
+chalimbana.ac.zm,,,,NXDOMAIN,2025-12-13T13:26:15+02:00,No Public DNS / Internal / Legacy,Unknown,0
+chipatacouncil.gov.zm,165.56.40.99,,,OK,2025-12-13T13:26:16+02:00,Public (IPv4),Direct / Shared Hosting,1
+chwsc.co.zm,,,,NXDOMAIN,2025-12-13T13:26:17+02:00,No Public DNS / Internal / Legacy,Unknown,0
+citizensupport.gov.zm,,,,NXDOMAIN,2025-12-13T13:26:18+02:00,No Public DNS / Internal / Legacy,Unknown,0
+constitutionalcourt.gov.zm,,,,NXDOMAIN,2025-12-13T13:26:20+02:00,No Public DNS / Internal / Legacy,Unknown,0
+cop.gov.zm,,,,NXDOMAIN,2025-12-13T13:26:21+02:00,No Public DNS / Internal / Legacy,Unknown,0
+daily-mail.co.zm,102.23.120.144,,,OK,2025-12-13T13:26:22+02:00,Public (IPv4),Direct / Shared Hosting,2
+dbz.co.zm,,,,NXDOMAIN,2025-12-13T13:26:22+02:00,No Public DNS / Internal / Legacy,Unknown,0
+dec.gov.zm,165.56.3.174,,,OK,2025-12-13T13:26:23+02:00,Public (IPv4),Direct / Shared Hosting,1
+deeds.gsb.gov.zm,165.56.40.86,,,OK,2025-12-13T13:26:23+02:00,Public (IPv4),Direct / Shared Hosting,4
+dmmu-ovp.gov.zm,,,,NXDOMAIN,2025-12-13T13:26:24+02:00,No Public DNS / Internal / Legacy,Unknown,0
+dnpw.gov.zm,,,,NXDOMAIN,2025-12-13T13:26:27+02:00,No Public DNS / Internal / Legacy,Unknown,0
+eas.gov.zm,154.120.217.146,,,OK,2025-12-13T13:26:27+02:00,Public (IPv4),Direct / Shared Hosting,1
+eiz.org.zm,102.23.122.251,,,OK,2025-12-13T13:26:28+02:00,Public (IPv4),Direct / Shared Hosting,9
+elections.org.zm,104.21.51.93,2606:4700:3035::6815:335d,,OK,2025-12-13T13:26:28+02:00,Public (IPv4),Direct / Shared Hosting,2
+energy.gov.zm,,,,NXDOMAIN,2025-12-13T13:26:29+02:00,No Public DNS / Internal / Legacy,Unknown,0
+eprocure.zppa.org.zm,41.60.3.174,,,OK,2025-12-13T13:26:30+02:00,Public (IPv4),Direct / Shared Hosting,3
+erb.org.zm,102.23.123.208,,,OK,2025-12-13T13:26:30+02:00,Public (IPv4),Direct / Shared Hosting,1
+eservices.gov.zm,165.56.40.86,,,OK,2025-12-13T13:26:31+02:00,Public (IPv4),Direct / Shared Hosting,4
+ewsc.co.zm,196.12.12.102,,,OK,2025-12-13T13:26:32+02:00,Public (IPv4),Direct / Shared Hosting,3
+exams-council.org.zm,41.63.0.22,,,OK,2025-12-13T13:26:32+02:00,Public (IPv4),Direct / Shared Hosting,7
+fic.gov.zm,196.12.12.102,,,OK,2025-12-13T13:26:33+02:00,Public (IPv4),Direct / Shared Hosting,3
+forestry.gov.zm,,,,NXDOMAIN,2025-12-13T13:26:34+02:00,No Public DNS / Internal / Legacy,Unknown,0
+fra.org.zm,217.69.10.8,,,OK,2025-12-13T13:26:34+02:00,Public (IPv4),Direct / Shared Hosting,3
+geec.gov.zm,,,,NXDOMAIN,2025-12-13T13:26:35+02:00,No Public DNS / Internal / Legacy,Unknown,0
+gncz.org.zm,,,,NXDOMAIN,2025-12-13T13:26:35+02:00,No Public DNS / Internal / Legacy,Unknown,0
+gov.zm,,,,NXDOMAIN,2025-12-13T13:26:36+02:00,No Public DNS / Internal / Legacy,Unknown,0
+gsb.gov.zm,165.56.40.86,,,OK,2025-12-13T13:26:38+02:00,Public (IPv4),Direct / Shared Hosting,4
+hea.org.zm,41.63.0.22,,,OK,2025-12-13T13:26:39+02:00,Public (IPv4),Direct / Shared Hosting,7
+hpcz.org.zm,185.230.63.107,,,OK,2025-12-13T13:26:39+02:00,Public (IPv4),Direct / Shared Hosting,2
+hrc.org.zm,102.23.120.16,,,OK,2025-12-13T13:26:40+02:00,Public (IPv4),Direct / Shared Hosting,1
+idc.co.zm,,,,NXDOMAIN,2025-12-13T13:26:41+02:00,No Public DNS / Internal / Legacy,Unknown,0
+indeni.com.zm,196.46.215.136,,,OK,2025-12-13T13:26:41+02:00,Public (IPv4),Direct / Shared Hosting,1
+infratel.co.zm,102.23.122.17,,,OK,2025-12-13T13:26:42+02:00,Public (IPv4),Direct / Shared Hosting,1
+izb.co.zm,20.119.8.34,,,OK,2025-12-13T13:26:43+02:00,Public (IPv4),Direct / Shared Hosting,1
+jcc.gov.zm,,,,NXDOMAIN,2025-12-13T13:26:44+02:00,No Public DNS / Internal / Legacy,Unknown,0
+judiciary.gov.zm,;; communications error to 172.20.10.1#53: timed out,;; communications error to 172.20.10.1#53: timed out,;; communications error to 172.20.10.1#53: timed out,OK,2025-12-13T13:27:00+02:00,Public (IPv4),Direct / Shared Hosting,1
+kitwecouncil.gov.zm,165.56.40.98,,,OK,2025-12-13T13:27:00+02:00,Public (IPv4),Direct / Shared Hosting,3
+kmu.ac.zm,41.63.0.22,,,OK,2025-12-13T13:27:01+02:00,Public (IPv4),Direct / Shared Hosting,7
+knu.ac.zm,,,,NXDOMAIN,2025-12-13T13:27:02+02:00,No Public DNS / Internal / Legacy,Unknown,0
+kwsc.co.zm,,,,NXDOMAIN,2025-12-13T13:27:02+02:00,No Public DNS / Internal / Legacy,Unknown,0
+lands.gov.zm,,,,NXDOMAIN,2025-12-13T13:27:04+02:00,No Public DNS / Internal / Legacy,Unknown,0
+laz.org.zm,162.241.226.109,,,OK,2025-12-13T13:27:05+02:00,Public (IPv4),Direct / Shared Hosting,1
+lcc.gov.zm,216.172.109.35,,,OK,2025-12-13T13:27:07+02:00,Public (IPv4),Direct / Shared Hosting,1
+lgazambia.org.zm,198.202.211.1,,,OK,2025-12-13T13:27:07+02:00,Public (IPv4),Direct / Shared Hosting,1
+livingstonecouncil.gov.zm,165.56.40.105,,,OK,2025-12-13T13:27:08+02:00,Public (IPv4),Direct / Shared Hosting,1
+lmmu.ac.zm,155.0.48.6,,,OK,2025-12-13T13:27:08+02:00,Public (IPv4),Direct / Shared Hosting,2
+lpwsc.co.zm,20.87.80.68,,,OK,2025-12-13T13:27:09+02:00,Public (IPv4),Direct / Shared Hosting,1
+lsk.gov.zm,41.215.183.58,,,OK,2025-12-13T13:27:10+02:00,Public (IPv4),Direct / Shared Hosting,7
+lua.gov.zm,154.120.217.150,,,OK,2025-12-13T13:27:10+02:00,Public (IPv4),Direct / Shared Hosting,1
+lukwsc.co.zm,,,,NXDOMAIN,2025-12-13T13:27:12+02:00,No Public DNS / Internal / Legacy,Unknown,0
+luse.co.zm,104.20.41.87,2606:4700:10::6814:2957,,OK,2025-12-13T13:27:12+02:00,Public (IPv4),Direct / Shared Hosting,1
+lwsc.com.zm,64.23.155.64,,,OK,2025-12-13T13:27:13+02:00,Public (IPv4),Direct / Shared Hosting,2
+mcdss.gov.zm,154.120.217.134,,,OK,2025-12-13T13:27:14+02:00,Public (IPv4),Direct / Shared Hosting,1
+mcti.gov.zm,154.120.217.129,,,OK,2025-12-13T13:27:14+02:00,Public (IPv4),Direct / Shared Hosting,1
+mcz.org.zm,,,,NXDOMAIN,2025-12-13T13:27:16+02:00,No Public DNS / Internal / Legacy,Unknown,0
+mfl.gov.zm,41.215.183.59,,,OK,2025-12-13T13:27:17+02:00,Public (IPv4),Direct / Shared Hosting,5
+mgee.gov.zm,,,,NXDOMAIN,2025-12-13T13:27:18+02:00,No Public DNS / Internal / Legacy,Unknown,0
+mihud.gov.zm,41.215.183.57,,,OK,2025-12-13T13:27:18+02:00,Public (IPv4),Direct / Shared Hosting,3
+mim.gov.zm,41.215.183.61,,,OK,2025-12-13T13:27:20+02:00,Public (IPv4),Direct / Shared Hosting,6
+miningcadastre.gov.zm,,,,NXDOMAIN,2025-12-13T13:27:21+02:00,No Public DNS / Internal / Legacy,Unknown,0
+mlgrd.gov.zm,41.215.183.56,,,OK,2025-12-13T13:27:21+02:00,Public (IPv4),Direct / Shared Hosting,5
+mlss.gov.zm,196.46.192.28,,,OK,2025-12-13T13:27:22+02:00,Public (IPv4),Direct / Shared Hosting,1
+mmmd.gov.zm,154.120.217.130,,,OK,2025-12-13T13:27:24+02:00,Public (IPv4),Direct / Shared Hosting,1
+mod.gov.zm,41.215.183.60,,,OK,2025-12-13T13:27:24+02:00,Public (IPv4),Direct / Shared Hosting,4
+moe.gov.zm,41.215.183.58,,,OK,2025-12-13T13:27:25+02:00,Public (IPv4),Direct / Shared Hosting,7
+mofaic.gov.zm,41.215.183.56,,,OK,2025-12-13T13:27:25+02:00,Public (IPv4),Direct / Shared Hosting,5
+mofnp.gov.zm,41.215.183.55,,,OK,2025-12-13T13:27:26+02:00,Public (IPv4),Direct / Shared Hosting,10
+moh.gov.zm,41.215.183.82,,,OK,2025-12-13T13:27:27+02:00,Public (IPv4),Direct / Shared Hosting,2
+mohais.gov.zm,41.215.183.55,,,OK,2025-12-13T13:27:27+02:00,Public (IPv4),Direct / Shared Hosting,10
+mohe.gov.zm,154.120.217.112,,,OK,2025-12-13T13:27:28+02:00,Public (IPv4),Direct / Shared Hosting,2
+moj.gov.zm,154.120.217.120,,,OK,2025-12-13T13:27:29+02:00,Public (IPv4),Direct / Shared Hosting,1
+mot.gov.zm,41.215.183.60,,,OK,2025-12-13T13:27:30+02:00,Public (IPv4),Direct / Shared Hosting,4
+mota.gov.zm,154.120.217.127,,,OK,2025-12-13T13:27:31+02:00,Public (IPv4),Direct / Shared Hosting,2
+mots.gov.zm,,,,NXDOMAIN,2025-12-13T13:27:32+02:00,No Public DNS / Internal / Legacy,Unknown,0
+msmed.gov.zm,,,,NXDOMAIN,2025-12-13T13:27:33+02:00,No Public DNS / Internal / Legacy,Unknown,0
+mu.ac.zm,41.63.16.3,,,OK,2025-12-13T13:27:34+02:00,Public (IPv4),Direct / Shared Hosting,1
+muc.gov.zm,154.120.217.148,,,OK,2025-12-13T13:27:35+02:00,Public (IPv4),Direct / Shared Hosting,1
+mukuba.ac.zm,,,,NXDOMAIN,2025-12-13T13:27:36+02:00,No Public DNS / Internal / Legacy,Unknown,0
+mwds.gov.zm,41.215.183.61,,,OK,2025-12-13T13:27:36+02:00,Public (IPv4),Direct / Shared Hosting,6
+mwsc.com.zm,41.216.81.142,,,OK,2025-12-13T13:27:37+02:00,Public (IPv4),Direct / Shared Hosting,1
+mysa.gov.zm,41.215.183.62,,,OK,2025-12-13T13:27:38+02:00,Public (IPv4),Direct / Shared Hosting,6
+napsa.co.zm,45.223.103.138,,,OK,2025-12-13T13:27:39+02:00,Public (IPv4),Direct / Shared Hosting,1
+natsave.co.zm,92.204.218.59,,,OK,2025-12-13T13:27:39+02:00,Public (IPv4),Direct / Shared Hosting,2
+naz.gov.zm,,,,NXDOMAIN,2025-12-13T13:27:41+02:00,No Public DNS / Internal / Legacy,Unknown,0
+ncz.co.zm,185.151.30.193,,,OK,2025-12-13T13:27:42+02:00,Public (IPv4),Direct / Shared Hosting,2
+ndolacouncil.gov.zm,165.56.40.98,,,OK,2025-12-13T13:27:43+02:00,Public (IPv4),Direct / Shared Hosting,3
+nfa.gov.zm,,,,NXDOMAIN,2025-12-13T13:27:45+02:00,No Public DNS / Internal / Legacy,Unknown,0
+nhcc.org.zm,,,,NXDOMAIN,2025-12-13T13:27:46+02:00,No Public DNS / Internal / Legacy,Unknown,0
+nhima.co.zm,45.223.103.110,,,OK,2025-12-13T13:27:46+02:00,Public (IPv4),Direct / Shared Hosting,1
+nipa.ac.zm,41.63.60.2,,,OK,2025-12-13T13:27:48+02:00,Public (IPv4),Direct / Shared Hosting,1
+nkwsc.co.zm,,,,NXDOMAIN,2025-12-13T13:27:49+02:00,No Public DNS / Internal / Legacy,Unknown,0
+nor.gov.zm,41.215.183.62,,,OK,2025-12-13T13:27:50+02:00,Public (IPv4),Direct / Shared Hosting,6
+nrfa.org.zm,165.56.48.28,,,OK,2025-12-13T13:27:51+02:00,Public (IPv4),Direct / Shared Hosting,6
+nrpc.gov.zm,,,,NXDOMAIN,2025-12-13T13:27:51+02:00,No Public DNS / Internal / Legacy,Unknown,0
+nwasco.org.zm,41.60.188.35,,,OK,2025-12-13T13:27:52+02:00,Public (IPv4),Direct / Shared Hosting,1
+nwp.gov.zm,,,,NXDOMAIN,2025-12-13T13:27:52+02:00,No Public DNS / Internal / Legacy,Unknown,0
+nwwsc.co.zm,,,,NXDOMAIN,2025-12-13T13:27:53+02:00,No Public DNS / Internal / Legacy,Unknown,0
+offgrid.gov.zm,154.120.217.92,,,OK,2025-12-13T13:27:54+02:00,Public (IPv4),Direct / Shared Hosting,1
+ovp.gov.zm,41.215.183.59,,,OK,2025-12-13T13:27:55+02:00,Public (IPv4),Direct / Shared Hosting,5
+pacra.org.zm,102.133.250.161,,,OK,2025-12-13T13:27:56+02:00,Public (IPv4),Direct / Shared Hosting,1
+parliament.gov.zm,41.77.145.34,,,OK,2025-12-13T13:27:56+02:00,Public (IPv4),Direct / Shared Hosting,1
+pia.org.zm,,,,NXDOMAIN,2025-12-13T13:27:57+02:00,No Public DNS / Internal / Legacy,Unknown,0
+portal.citizensupport.gov.zm,smartzambia.powerappsportals.com.,smartzambia.powerappsportals.com.,smartzambia.powerappsportals.com,OK,2025-12-13T13:27:57+02:00,Public (IPv4),Direct / Shared Hosting,1
+portal.zra.org.zm,196.223.29.13,,,OK,2025-12-13T13:27:58+02:00,Public (IPv4),Direct / Shared Hosting,1
+pspf.gov.zm,,,,NXDOMAIN,2025-12-13T13:28:00+02:00,No Public DNS / Internal / Legacy,Unknown,0
+publicprotector.gov.zm,,,,NXDOMAIN,2025-12-13T13:28:00+02:00,No Public DNS / Internal / Legacy,Unknown,0
+rda.org.zm,102.23.122.251,,,OK,2025-12-13T13:28:01+02:00,Public (IPv4),Direct / Shared Hosting,9
+rea.org.zm,162.241.224.179,,,OK,2025-12-13T13:28:01+02:00,Public (IPv4),Direct / Shared Hosting,2
+rsu.ac.zm,,,,NXDOMAIN,2025-12-13T13:28:04+02:00,No Public DNS / Internal / Legacy,Unknown,0
+rtsa.org.zm,41.175.8.225,,,OK,2025-12-13T13:28:04+02:00,Public (IPv4),Direct / Shared Hosting,2
+seczambia.org.zm,50.6.3.226,,,OK,2025-12-13T13:28:05+02:00,Public (IPv4),Direct / Shared Hosting,2
+sh.gov.zm,165.56.3.214,,,OK,2025-12-13T13:28:06+02:00,Public (IPv4),Direct / Shared Hosting,2
+sou.gov.zm,41.215.183.62,,,OK,2025-12-13T13:28:06+02:00,Public (IPv4),Direct / Shared Hosting,6
+statehouse.gov.zm,,,,NXDOMAIN,2025-12-13T13:28:09+02:00,No Public DNS / Internal / Legacy,Unknown,0
+supremecourt.gov.zm,,,,NXDOMAIN,2025-12-13T13:28:10+02:00,No Public DNS / Internal / Legacy,Unknown,0
+swsc.co.zm,,,,NXDOMAIN,2025-12-13T13:28:11+02:00,No Public DNS / Internal / Legacy,Unknown,0
+szi.gov.zm,41.215.183.55,,,OK,2025-12-13T13:28:12+02:00,Public (IPv4),Direct / Shared Hosting,10
+tazama.co.zm,102.23.121.175,,,OK,2025-12-13T13:28:13+02:00,Public (IPv4),Direct / Shared Hosting,1
+tbz.org.zm,,,,NXDOMAIN,2025-12-13T13:28:14+02:00,No Public DNS / Internal / Legacy,Unknown,0
+tcz.ac.zm,154.120.217.132,,,OK,2025-12-13T13:28:14+02:00,Public (IPv4),Direct / Shared Hosting,2
+teveta.org.zm,,,,NXDOMAIN,2025-12-13T13:28:15+02:00,No Public DNS / Internal / Legacy,Unknown,0
+times.co.zm,165.56.48.29,,,OK,2025-12-13T13:28:15+02:00,Public (IPv4),Direct / Shared Hosting,2
+unza.zm,41.63.1.33,,,OK,2025-12-13T13:28:16+02:00,Public (IPv4),Direct / Shared Hosting,2
+warma.org.zm,165.56.48.28,,,OK,2025-12-13T13:28:17+02:00,Public (IPv4),Direct / Shared Hosting,6
+wes.gov.zm,154.120.217.145,,,OK,2025-12-13T13:28:17+02:00,Public (IPv4),Direct / Shared Hosting,1
+workers.com.zm,196.46.215.165,,,OK,2025-12-13T13:28:18+02:00,Public (IPv4),Direct / Shared Hosting,2
+wwsc.co.zm,,,,NXDOMAIN,2025-12-13T13:28:19+02:00,No Public DNS / Internal / Legacy,Unknown,0
+www.acc.gov.zm,102.23.122.251,,,OK,2025-12-13T13:28:20+02:00,Public (IPv4),Direct / Shared Hosting,9
+www.ago.gov.zm,41.175.8.85,,,OK,2025-12-13T13:28:21+02:00,Public (IPv4),Direct / Shared Hosting,1
+www.agriculture.gov.zm,41.215.183.59,,,OK,2025-12-13T13:28:21+02:00,Public (IPv4),Direct / Shared Hosting,5
+www.boz.zm,4.222.18.41,,,OK,2025-12-13T13:28:22+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.brra.org.zm,102.23.122.251,,,OK,2025-12-13T13:28:23+02:00,Public (IPv4),Direct / Shared Hosting,9
+www.caa.co.zm,41.72.115.238,,,OK,2025-12-13T13:28:23+02:00,Public (IPv4),Direct / Shared Hosting,1
+www.cabinet.gov.zm,41.215.183.58,,,OK,2025-12-13T13:28:24+02:00,Public (IPv4),Direct / Shared Hosting,7
+www.cbu.ac.zm,192.124.249.110,,,OK,2025-12-13T13:28:24+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.ccpc.org.zm,102.23.122.251,,,OK,2025-12-13T13:28:25+02:00,Public (IPv4),Direct / Shared Hosting,9
+www.ceec.org.zm,172.67.154.246,2606:4700:3031::6815:638,,OK,2025-12-13T13:28:26+02:00,Public (IPv4),Direct / Shared Hosting,1
+www.cen.gov.zm,41.215.183.57,,,OK,2025-12-13T13:28:26+02:00,Public (IPv4),Direct / Shared Hosting,3
+www.chalimbana.ac.zm,,,,NXDOMAIN,2025-12-13T13:28:27+02:00,No Public DNS / Internal / Legacy,Unknown,0
+www.cop.gov.zm,,,,NXDOMAIN,2025-12-13T13:28:28+02:00,No Public DNS / Internal / Legacy,Unknown,0
+www.daily-mail.co.zm,102.23.120.144,,,OK,2025-12-13T13:28:29+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.dbz.co.zm,41.60.230.83,,,OK,2025-12-13T13:28:30+02:00,Public (IPv4),Direct / Shared Hosting,1
+www.eas.gov.zm,41.215.183.57,,,OK,2025-12-13T13:28:30+02:00,Public (IPv4),Direct / Shared Hosting,3
+www.eiz.org.zm,102.23.122.251,,,OK,2025-12-13T13:28:31+02:00,Public (IPv4),Direct / Shared Hosting,9
+www.elections.org.zm,104.21.51.93,2606:4700:3035::6815:335d,,OK,2025-12-13T13:28:31+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.erb.org.zm,erb.org.zm.,erb.org.zm.,erb.org.zm,OK,2025-12-13T13:28:31+02:00,Public (IPv4),Direct / Shared Hosting,1
+www.exams-council.org.zm,41.63.0.22,,,OK,2025-12-13T13:28:32+02:00,Public (IPv4),Direct / Shared Hosting,7
+www.fic.gov.zm,fic.gov.zm.,fic.gov.zm.,fic.gov.zm,OK,2025-12-13T13:28:32+02:00,Public (IPv4),Direct / Shared Hosting,1
+www.fra.org.zm,217.69.10.8,,,OK,2025-12-13T13:28:33+02:00,Public (IPv4),Direct / Shared Hosting,3
+www.gncz.org.zm,,,,NXDOMAIN,2025-12-13T13:28:34+02:00,No Public DNS / Internal / Legacy,Unknown,0
+www.gov.zm,,,,NXDOMAIN,2025-12-13T13:28:34+02:00,No Public DNS / Internal / Legacy,Unknown,0
+www.hea.org.zm,41.63.0.22,,,OK,2025-12-13T13:28:35+02:00,Public (IPv4),Direct / Shared Hosting,7
+www.hpcz.org.zm,185.230.63.107,,,OK,2025-12-13T13:28:36+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.hrc.org.zm,hrc.org.zm.,hrc.org.zm.,hrc.org.zm,OK,2025-12-13T13:28:36+02:00,Public (IPv4),Direct / Shared Hosting,1
+www.idc.co.zm,,,,NXDOMAIN,2025-12-13T13:28:37+02:00,No Public DNS / Internal / Legacy,Unknown,0
+www.indeni.com.zm,indeni.com.zm.,indeni.com.zm.,indeni.com.zm,OK,2025-12-13T13:28:37+02:00,Public (IPv4),Direct / Shared Hosting,1
+www.izb.co.zm,izb.azurewebsites.net.,izb.azurewebsites.net.,izb.azurewebsites.net,OK,2025-12-13T13:28:37+02:00,Public (IPv4),Cloud (Azure),1
+www.kmu.ac.zm,41.63.0.22,,,OK,2025-12-13T13:28:38+02:00,Public (IPv4),Direct / Shared Hosting,7
+www.knu.ac.zm,,,,NXDOMAIN,2025-12-13T13:28:39+02:00,No Public DNS / Internal / Legacy,Unknown,0
+www.lands.gov.zm,,,,NXDOMAIN,2025-12-13T13:28:40+02:00,No Public DNS / Internal / Legacy,Unknown,0
+www.laz.org.zm,laz.org.zm.,laz.org.zm.,laz.org.zm,OK,2025-12-13T13:28:40+02:00,Public (IPv4),Direct / Shared Hosting,1
+www.lcc.gov.zm,217.69.10.8,,,OK,2025-12-13T13:28:41+02:00,Public (IPv4),Direct / Shared Hosting,3
+www.lgazambia.org.zm,cdn.webflow.com.,cdn.webflow.com.,cdn.webflow.com,OK,2025-12-13T13:28:42+02:00,Public (IPv4),CDN (Webflow),1
+www.lmmu.ac.zm,155.0.48.6,,,OK,2025-12-13T13:28:42+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.lsk.gov.zm,41.215.183.58,,,OK,2025-12-13T13:28:43+02:00,Public (IPv4),Direct / Shared Hosting,7
+www.lua.gov.zm,41.215.183.58,,,OK,2025-12-13T13:28:44+02:00,Public (IPv4),Direct / Shared Hosting,7
+www.luse.co.zm,172.66.172.180,2606:4700:10::6814:2957,,OK,2025-12-13T13:28:44+02:00,Public (IPv4),Direct / Shared Hosting,1
+www.lwsc.com.zm,64.23.155.64,,,OK,2025-12-13T13:28:45+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.mcdss.gov.zm,41.215.183.55,,,OK,2025-12-13T13:28:46+02:00,Public (IPv4),Direct / Shared Hosting,10
+www.mcz.org.zm,,,,NXDOMAIN,2025-12-13T13:28:47+02:00,No Public DNS / Internal / Legacy,Unknown,0
+www.mfl.gov.zm,41.215.183.59,,,OK,2025-12-13T13:28:48+02:00,Public (IPv4),Direct / Shared Hosting,5
+www.mgee.gov.zm,41.215.183.56,,,OK,2025-12-13T13:28:48+02:00,Public (IPv4),Direct / Shared Hosting,5
+www.mim.gov.zm,41.215.183.61,,,OK,2025-12-13T13:28:49+02:00,Public (IPv4),Direct / Shared Hosting,6
+www.mlgrd.gov.zm,41.215.183.56,,,OK,2025-12-13T13:28:50+02:00,Public (IPv4),Direct / Shared Hosting,5
+www.mlss.gov.zm,41.215.183.61,,,OK,2025-12-13T13:28:50+02:00,Public (IPv4),Direct / Shared Hosting,6
+www.mmmd.gov.zm,41.215.183.60,,,OK,2025-12-13T13:28:51+02:00,Public (IPv4),Direct / Shared Hosting,4
+www.moe.gov.zm,154.120.217.113,,,OK,2025-12-13T13:28:52+02:00,Public (IPv4),Direct / Shared Hosting,1
+www.mofaic.gov.zm,41.215.183.56,,,OK,2025-12-13T13:28:52+02:00,Public (IPv4),Direct / Shared Hosting,5
+www.mofnp.gov.zm,41.215.183.55,,,OK,2025-12-13T13:28:53+02:00,Public (IPv4),Direct / Shared Hosting,10
+www.moh.gov.zm,41.215.183.82,,,OK,2025-12-13T13:28:54+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.mohais.gov.zm,41.215.183.55,,,OK,2025-12-13T13:28:54+02:00,Public (IPv4),Direct / Shared Hosting,10
+www.mohe.gov.zm,154.120.217.112,,,OK,2025-12-13T13:28:55+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.moj.gov.zm,41.215.183.55,,,OK,2025-12-13T13:28:56+02:00,Public (IPv4),Direct / Shared Hosting,10
+www.mot.gov.zm,41.215.183.60,,,OK,2025-12-13T13:28:57+02:00,Public (IPv4),Direct / Shared Hosting,4
+www.mota.gov.zm,154.120.217.127,,,OK,2025-12-13T13:28:57+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.mots.gov.zm,41.215.183.61,,,OK,2025-12-13T13:28:58+02:00,Public (IPv4),Direct / Shared Hosting,6
+www.msmed.gov.zm,,,,NXDOMAIN,2025-12-13T13:29:00+02:00,No Public DNS / Internal / Legacy,Unknown,0
+www.mu.ac.zm,41.63.16.31,,,OK,2025-12-13T13:29:00+02:00,Public (IPv4),Direct / Shared Hosting,1
+www.muc.gov.zm,41.215.183.58,,,OK,2025-12-13T13:29:01+02:00,Public (IPv4),Direct / Shared Hosting,7
+www.mukuba.ac.zm,,,,NXDOMAIN,2025-12-13T13:29:02+02:00,No Public DNS / Internal / Legacy,Unknown,0
+www.mwds.gov.zm,41.215.183.61,,,OK,2025-12-13T13:29:03+02:00,Public (IPv4),Direct / Shared Hosting,6
+www.mwsc.com.zm,mwsc.com.zm.,mwsc.com.zm.,mwsc.com.zm,OK,2025-12-13T13:29:03+02:00,Public (IPv4),Direct / Shared Hosting,1
+www.napsa.co.zm,vyy7u4h.ng.impervadns.net.,vyy7u4h.ng.impervadns.net.,vyy7u4h.ng.impervadns.net,OK,2025-12-13T13:29:03+02:00,Public (IPv4),WAF/CDN (Imperva),1
+www.natsave.co.zm,92.204.218.59,,,OK,2025-12-13T13:29:04+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.ncz.co.zm,185.151.30.193,,,OK,2025-12-13T13:29:05+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.ndolacouncil.gov.zm,165.56.40.98,,,OK,2025-12-13T13:29:05+02:00,Public (IPv4),Direct / Shared Hosting,3
+www.nhcc.org.zm,,,,NXDOMAIN,2025-12-13T13:29:06+02:00,No Public DNS / Internal / Legacy,Unknown,0
+www.nhima.co.zm,xlahjgx.ng.impervadns.net.,xlahjgx.ng.impervadns.net.,xlahjgx.ng.impervadns.net,OK,2025-12-13T13:29:06+02:00,Public (IPv4),WAF/CDN (Imperva),1
+www.nipa.ac.zm,155.0.14.112,,,OK,2025-12-13T13:29:07+02:00,Public (IPv4),Direct / Shared Hosting,1
+www.nor.gov.zm,41.215.183.62,,,OK,2025-12-13T13:29:07+02:00,Public (IPv4),Direct / Shared Hosting,6
+www.nrfa.org.zm,165.56.48.28,,,OK,2025-12-13T13:29:08+02:00,Public (IPv4),Direct / Shared Hosting,6
+www.nwasco.org.zm,31.22.4.234,,,OK,2025-12-13T13:29:10+02:00,Public (IPv4),Direct / Shared Hosting,1
+www.nwp.gov.zm,,,,NXDOMAIN,2025-12-13T13:29:10+02:00,No Public DNS / Internal / Legacy,Unknown,0
+www.ovp.gov.zm,41.215.183.59,,,OK,2025-12-13T13:29:11+02:00,Public (IPv4),Direct / Shared Hosting,5
+www.pacra.org.zm,pacra-test-website.azurewebsites.net.,pacra-test-website.azurewebsites.net.,pacra-test-website.azurewebsites.net,OK,2025-12-13T13:29:11+02:00,Public (IPv4),Cloud (Azure),1
+www.parliament.gov.zm,41.77.146.98,,,OK,2025-12-13T13:29:12+02:00,Public (IPv4),Direct / Shared Hosting,1
+www.pia.org.zm,102.23.123.62,,,OK,2025-12-13T13:29:12+02:00,Public (IPv4),Direct / Shared Hosting,1
+www.rda.org.zm,rda.org.zm.,rda.org.zm.,rda.org.zm,OK,2025-12-13T13:29:13+02:00,Public (IPv4),Direct / Shared Hosting,1
+www.rea.org.zm,162.241.224.179,,,OK,2025-12-13T13:29:13+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.rtsa.org.zm,41.175.8.225,,,OK,2025-12-13T13:29:14+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.seczambia.org.zm,50.6.3.226,,,OK,2025-12-13T13:29:15+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.sh.gov.zm,165.56.3.214,,,OK,2025-12-13T13:29:15+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.sou.gov.zm,41.215.183.62,,,OK,2025-12-13T13:29:16+02:00,Public (IPv4),Direct / Shared Hosting,6
+www.statehouse.gov.zm,,,,NXDOMAIN,2025-12-13T13:29:18+02:00,No Public DNS / Internal / Legacy,Unknown,0
+www.szi.gov.zm,41.215.183.55,,,OK,2025-12-13T13:29:18+02:00,Public (IPv4),Direct / Shared Hosting,10
+www.tcz.ac.zm,154.120.217.132,,,OK,2025-12-13T13:29:19+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.times.co.zm,165.56.48.29,,,OK,2025-12-13T13:29:19+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.unza.zm,41.63.1.33,,,OK,2025-12-13T13:29:20+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.warma.org.zm,165.56.48.28,,warma.org.zm,OK,2025-12-13T13:29:21+02:00,Public (IPv4),Direct / Shared Hosting,6
+www.wes.gov.zm,41.215.183.62,,,OK,2025-12-13T13:29:22+02:00,Public (IPv4),Direct / Shared Hosting,6
+www.workers.com.zm,196.46.215.165,,,OK,2025-12-13T13:29:22+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.zabs.org.zm,193.26.156.33,,,OK,2025-12-13T13:29:23+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.zacl.co.zm,5.77.36.174,,,OK,2025-12-13T13:29:23+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.zaffico.co.zm,zaffico.co.zm.,zaffico.co.zm.,zaffico.co.zm,OK,2025-12-13T13:29:24+02:00,Public (IPv4),Direct / Shared Hosting,1
+www.zambezira.org,139.84.238.34,,,OK,2025-12-13T13:29:25+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.zambiaimmigration.gov.zm,zamimmigration.azurewebsites.net.,zamimmigration.azurewebsites.net.,zamimmigration.azurewebsites.net,OK,2025-12-13T13:29:25+02:00,Public (IPv4),Cloud (Azure),1
+www.zamra.co.zm,192.185.87.120,,,OK,2025-12-13T13:29:26+02:00,Public (IPv4),Direct / Shared Hosting,4
+www.zamstats.gov.zm,41.63.0.22,,,OK,2025-12-13T13:29:27+02:00,Public (IPv4),Direct / Shared Hosting,7
+www.zanaco.co.zm,104.20.42.230,2606:4700:10::ac42:a20a,,OK,2025-12-13T13:29:27+02:00,Public (IPv4),Direct / Shared Hosting,1
+www.zaqa.gov.zm,zaqa.gov.zm.,zaqa.gov.zm.,zaqa.gov.zm,OK,2025-12-13T13:29:28+02:00,Public (IPv4),Direct / Shared Hosting,1
+www.zawa.org.zm,,,,NXDOMAIN,2025-12-13T13:29:28+02:00,No Public DNS / Internal / Legacy,Unknown,0
+www.zccm-ih.com.zm,91.108.96.95,,,OK,2025-12-13T13:29:29+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.zcsa.org.zm,196.46.215.182,,,OK,2025-12-13T13:29:29+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.zda.org.zm,192.185.87.120,,,OK,2025-12-13T13:29:30+02:00,Public (IPv4),Direct / Shared Hosting,4
+www.zema.org.zm,102.23.122.159,,,OK,2025-12-13T13:29:31+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.zesco.co.zm,102.67.160.250,,,OK,2025-12-13T13:29:31+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.zica.co.zm,35.187.124.132,,,OK,2025-12-13T13:29:32+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.zicta.zm,196.13.104.250,,,OK,2025-12-13T13:29:33+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.znbc.co.zm,41.215.183.55,,,OK,2025-12-13T13:29:34+02:00,Public (IPv4),Direct / Shared Hosting,10
+www.znbs.co.zm,znbs.co.zm.,znbs.co.zm.,znbs.co.zm,OK,2025-12-13T13:29:34+02:00,Public (IPv4),Direct / Shared Hosting,1
+www.znphi.co.zm,102.23.123.177,,,OK,2025-12-13T13:29:35+02:00,Public (IPv4),Direct / Shared Hosting,1
+www.zppa.org.zm,41.60.3.174,,,OK,2025-12-13T13:29:35+02:00,Public (IPv4),Direct / Shared Hosting,3
+www.zpsc.gov.zm,174.136.29.222,,,OK,2025-12-13T13:29:36+02:00,Public (IPv4),Direct / Shared Hosting,3
+www.zra.org.zm,196.223.29.10,,,OK,2025-12-13T13:29:36+02:00,Public (IPv4),Direct / Shared Hosting,1
+www.zrl.com.zm,102.23.123.214,,,OK,2025-12-13T13:29:37+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.zsicgi.co.zm,196.46.215.142,,,OK,2025-12-13T13:29:38+02:00,Public (IPv4),Direct / Shared Hosting,2
+www.zsiclife.co.zm,104.26.3.148,2606:4700:20::ac43:4607,,OK,2025-12-13T13:29:39+02:00,Public (IPv4),Direct / Shared Hosting,1
+zabs.org.zm,193.26.156.33,,,OK,2025-12-13T13:29:39+02:00,Public (IPv4),Direct / Shared Hosting,2
+zacl.co.zm,5.77.36.174,,,OK,2025-12-13T13:29:40+02:00,Public (IPv4),Direct / Shared Hosting,2
+zaffico.co.zm,102.23.122.251,,,OK,2025-12-13T13:29:40+02:00,Public (IPv4),Direct / Shared Hosting,9
+zambezira.org,139.84.238.34,,,OK,2025-12-13T13:29:41+02:00,Public (IPv4),Direct / Shared Hosting,2
+zambiaimmigration.gov.zm,196.12.12.102,,,OK,2025-12-13T13:29:42+02:00,Public (IPv4),Direct / Shared Hosting,3
+zambiapolice.gov.zm,162.241.127.226,,,OK,2025-12-13T13:29:43+02:00,Public (IPv4),Direct / Shared Hosting,1
+zampass.gsb.gov.zm,165.56.40.86,,,OK,2025-12-13T13:29:44+02:00,Public (IPv4),Direct / Shared Hosting,4
+zamportal.gov.zm,13.69.68.16,,,OK,2025-12-13T13:29:44+02:00,Public (IPv4),Direct / Shared Hosting,1
+zamra.co.zm,192.185.87.120,,,OK,2025-12-13T13:29:45+02:00,Public (IPv4),Direct / Shared Hosting,4
+zamstats.gov.zm,,,,NXDOMAIN,2025-12-13T13:29:46+02:00,No Public DNS / Internal / Legacy,Unknown,0
+zamtel.zm,165.56.48.30,,,OK,2025-12-13T13:29:46+02:00,Public (IPv4),Direct / Shared Hosting,1
+zanaco.co.zm,,,,NXDOMAIN,2025-12-13T13:29:47+02:00,No Public DNS / Internal / Legacy,Unknown,0
+zanis.gov.zm,41.215.183.86,,,OK,2025-12-13T13:29:47+02:00,Public (IPv4),Direct / Shared Hosting,1
+zaqa.gov.zm,108.167.183.249,,,OK,2025-12-13T13:29:48+02:00,Public (IPv4),Direct / Shared Hosting,1
+zari.gov.zm,174.136.29.222,,,OK,2025-12-13T13:29:49+02:00,Public (IPv4),Direct / Shared Hosting,3
+zawa.org.zm,,,,NXDOMAIN,2025-12-13T13:29:49+02:00,No Public DNS / Internal / Legacy,Unknown,0
+zccm-ih.com.zm,91.108.96.95,,,OK,2025-12-13T13:29:50+02:00,Public (IPv4),Direct / Shared Hosting,2
+zcs.gov.zm,,,,NXDOMAIN,2025-12-13T13:29:51+02:00,No Public DNS / Internal / Legacy,Unknown,0
+zcsa.org.zm,196.46.215.182,,,OK,2025-12-13T13:29:51+02:00,Public (IPv4),Direct / Shared Hosting,2
+zda.org.zm,192.185.87.120,,,OK,2025-12-13T13:29:52+02:00,Public (IPv4),Direct / Shared Hosting,4
+zema.org.zm,102.23.122.159,,,OK,2025-12-13T13:29:53+02:00,Public (IPv4),Direct / Shared Hosting,2
+zesco.co.zm,102.67.160.250,,,OK,2025-12-13T13:29:53+02:00,Public (IPv4),Direct / Shared Hosting,2
+zica.co.zm,35.187.124.132,,,OK,2025-12-13T13:29:54+02:00,Public (IPv4),Direct / Shared Hosting,2
+zicta.zm,196.13.104.250,,,OK,2025-12-13T13:29:54+02:00,Public (IPv4),Direct / Shared Hosting,2
+znbc.co.zm,41.215.183.55,,,OK,2025-12-13T13:29:55+02:00,Public (IPv4),Direct / Shared Hosting,10
+znbs.co.zm,165.56.48.28,,,OK,2025-12-13T13:29:55+02:00,Public (IPv4),Direct / Shared Hosting,6
+znphi.co.zm,45.90.229.189,,,OK,2025-12-13T13:29:56+02:00,Public (IPv4),Direct / Shared Hosting,1
+zppa.org.zm,41.60.3.174,,,OK,2025-12-13T13:29:57+02:00,Public (IPv4),Direct / Shared Hosting,3
+zpsc.gov.zm,174.136.29.222,,,OK,2025-12-13T13:29:57+02:00,Public (IPv4),Direct / Shared Hosting,3
+zra.org.zm,41.72.108.84,,,OK,2025-12-13T13:29:58+02:00,Public (IPv4),Direct / Shared Hosting,1
+zrl.com.zm,102.23.123.214,,,OK,2025-12-13T13:29:59+02:00,Public (IPv4),Direct / Shared Hosting,2
+zsicgi.co.zm,196.46.215.142,,,OK,2025-12-13T13:29:59+02:00,Public (IPv4),Direct / Shared Hosting,2
+zsiclife.co.zm,104.26.2.148,2606:4700:20::ac43:4607,,OK,2025-12-13T13:30:00+02:00,Public (IPv4),Direct / Shared Hosting,1
+zuct.ac.zm,,,,NXDOMAIN,2025-12-13T13:30:01+02:00,No Public DNS / Internal / Legacy,Unknown,0
+zwma.gov.zm,,,,NXDOMAIN,2025-12-13T13:30:01+02:00,No Public DNS / Internal / Legacy,Unknown,0
